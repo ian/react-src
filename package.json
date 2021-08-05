@@ -1,7 +1,7 @@
 {
-  "name": "react-embed",
+  "name": "react-src",
   "version": "0.1.0",
-  "description": "Embeddable React apps via <script> tags",
+  "description": "Embeddable React apps via <script src='...'> tags",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
