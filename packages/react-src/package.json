@@ -1,5 +1,5 @@
 {
-  "name": "react-embed",
+  "name": "react-src",
   "version": "0.0.1",
   "description": "Embeddable React apps via <script> tags",
   "keywords": [
@@ -10,7 +10,7 @@
     "scripttag"
   ],
   "author": "Ian Hunter <ianhunter@gmail.com>",
-  "homepage": "https://github.com/ian/react-embed",
+  "homepage": "https://github.com/ian/react-src",
   "license": "MIT",
   "main": "dist/index.js",
   "directories": {
@@ -22,12 +22,12 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ian/react-embed.git"
+    "url": "git+https://github.com/ian/react-src.git"
   },
   "scripts": {
     "build": "tsc"
   },
   "bugs": {
-    "url": "https://github.com/ian/react-embed/issues"
+    "url": "https://github.com/ian/react-src/issues"
   }
 }

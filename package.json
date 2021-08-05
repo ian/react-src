@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ian/react-embed.git"
+    "url": "git+https://github.com/ian/react-src.git"
   },
   "keywords": [
     "react",
@@ -20,9 +20,9 @@
   "author": "Ian Hunter",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ian/react-embed/issues"
+    "url": "https://github.com/ian/react-src/issues"
   },
-  "homepage": "https://github.com/ian/react-embed#readme",
+  "homepage": "https://github.com/ian/react-src#readme",
   "devDependencies": {
     "@types/node": "^16.4.12",
     "lerna": "^4.0.0",

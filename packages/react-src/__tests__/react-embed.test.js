@@ -1,7 +1,7 @@
-'use strict';
+"use strict";
 
-const reactEmbed = require('..');
+const reactEmbed = require("..");
 
-describe('react-embed', () => {
-    it('needs tests');
+describe("react-src", () => {
+  it("needs tests");
 });
